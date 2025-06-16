@@ -21,7 +21,7 @@ Those who endure and grow shall be welcomed into deeper Circles.
 | Day | Convocation      | Quest Scrolls (External Materials)                                                                               | Task of the Day                              |
 | --- | ---------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 1   | Intro to Linux   | [Linux Journey](https://linuxjourney.com/)                                                                       | Create a cheatsheet of common shell commands |
-| 2   | Linux Networking | [Explainshell](https://explainshell.com/), [Networking Basics](https://www.geeksforgeeks.org/networking-basics/) | Install nginx, curl localhost                |
+| 2   | Linux Networking | [Explainshell](https://explainshell.com/), [Networking Basics](https://www.geeksforgeeks.org/linux-unix/network-configuration-trouble-shooting-commands-linux/) | Install nginx, curl localhost                |
 | 3   | Python I         | [W3Schools Python](https://www.w3schools.com/python/)                                                            | Write a calculator CLI tool                  |
 | 4   | Python II        | [RealPython Functions](https://realpython.com/defining-your-own-python-function/)                                | Build a dice simulator                       |
 | 5   | Bash + Python    | [Subprocess Guide](https://docs.python.org/3/library/subprocess.html)                                            | Ping domain list from file using Python      |
